@@ -588,7 +588,7 @@ scene.add(planet);
 //Ganti Deskripsi Planet
 const ringTexts = [
   'Happy 7 Months My Bbaylove Dee',//untuk deskripsi planet layer 1
-  "I love you so much ❣️",//untuk deskripsi planet layer 2
+  "I love you so much❣️",//untuk deskripsi planet layer 2
   "Happy 7 Monthsary",//untuk deskripsi planet layer 3
   "12/08/2025",//untuk deskripsi planet layer 4
   ...(window.dataCCD && window.dataCCD.data.ringTexts ? window.dataCCD.data.ringTexts : [])
